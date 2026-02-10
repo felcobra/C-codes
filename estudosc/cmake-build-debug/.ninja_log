@@ -1,0 +1,12 @@
+# ninja log v6
+70	381	7687944401264572	CMakeFiles/estudosc.dir/arquivo.c.obj	b7ba6c80a217123c
+5	136	7661723477367082	CMakeFiles/estudosc.dir/main.c.obj	1df30c78ee5bd1f7
+137	292	7661723478682905	estudosc.exe	39dce456f50fe11c
+23	468	7742229482088940	build.ninja	eba0efff894c7878
+68	313	7688488241357608	CMakeFiles/estudosc.dir/garfoedteste.c.obj	e413411662562c1e
+77	314	7704249039614593	CMakeFiles/estudosc.dir/geraçao_particoes.c.obj	4cec4025fe5dcc1c
+61	470	7688488241288589	CMakeFiles/estudosc.dir/grafos.c.obj	48e2027fc414eb9e
+169	470	7694483570697667	CMakeFiles/estudosc.dir/arquivoteste.c.obj	104c17c1eec83fcb
+161	477	7694483570618497	CMakeFiles/estudosc.dir/grafoestudo.c.obj	2a31d2e9b3032b7e
+84	317	7704249039688500	CMakeFiles/estudosc.dir/teamufofa.c.obj	c9d10880236c7479
+223	655	7703712126044927	CMakeFiles/estudosc.dir/arvoreb.c.obj	fa17c36463fc9260

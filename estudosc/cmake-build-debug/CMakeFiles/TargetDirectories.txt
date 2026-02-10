@@ -1,0 +1,3 @@
+C:/Users/srvit/CLionProjects/estudosc/cmake-build-debug/CMakeFiles/estudosc.dir
+C:/Users/srvit/CLionProjects/estudosc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/srvit/CLionProjects/estudosc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
